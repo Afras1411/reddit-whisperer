@@ -1,0 +1,16 @@
+# Virtual environments
+env/
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Editor folders
+.vscode/
+*.suo
+*.user
+*.swp
+
+# Secret keys
+.env
